@@ -1,7 +1,7 @@
 # Docker-Flask
 Simple Flask App with Docker container
 
-# Steps for creating project
+Steps for creating project
 
 1. Check Docker Version
 
@@ -21,7 +21,7 @@ Simple Flask App with Docker container
 
 6. Create Dockerfile
 
-# Dockerfile - this is a comment. Sample Dockerfile.
+Dockerfile - this is a comment. Sample Dockerfile.
 FROM python:2.7
 COPY . /app
 WORKDIR /app
